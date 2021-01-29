@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Travis.Smith@test...| 15.5|
+|Angie.Clark@test.com| -5.5|
+|Senthil.Davis@tes...| -5.0|
+|Jason.Sanchez@tes...| 17.0|
+|Sean.Habschied@te...| -7.0|
+|Frank.Howard@test...| -3.0|
+|Lyn.Staples@test.com| -3.5|
+|Jason.Clark@test.com| -4.0|
+|Jane.Fibonnaci@te...| -2.0|
+|Jason.Aristotle@t...| -2.0|
+|Chris.Jones@test.com| -1.5|
+|Senthil.Staples@t...| -3.5|
+|Neeraj.Abram@test...| -2.0|
+|Spencer.Doshi@tes...| -2.5|
+|Jane.Sanchez@test...| -3.0|
+|Christina.Khatib@...|-12.5|
+|David.Davis@test.com| 14.0|
+|Sean.Jefferson@te...| -1.5|
+|Spencer.Spencer@t...| -4.5|
+|Craig.Davis@test.com|-30.5|
++--------------------+-----+
+only showing top 20 rows
+
